@@ -45,3 +45,14 @@ console.log(gold);
 
 gold %= 10;
 console.log(gold);
+
+let numberofstudents = 0;
+
+numberofstudents += 1;
+console.log(numberofstudents);
+
+numberofstudents++;
+console.log(numberofstudents);
+
+++numberofstudents;
+console.log(numberofstudents);
