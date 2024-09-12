@@ -40,4 +40,4 @@ console.log(plus);
 let seconds = 111;
 let minutes = 111 % 60;
 console.log(minutes);
-// Math.floor för att få fram minut 
+// Math.floor för att få fram minut
