@@ -25,5 +25,19 @@ answer = remainder1 % remainder2;
 console.log(answer);
 
 // Uppgift 5
-let radius = 2;
+const radius = 2;
+const PI = Math.PI;
+const areaofcircle = radius * radius * PI;
+console.log(areaofcircle);
 
+
+//Uppgift 6
+let plus = 11;
+plus = -plus;
+console.log(plus);
+
+// Uppgift 9
+let seconds = 111;
+let minutes = 111 % 60;
+console.log(minutes);
+// Math.floor för att få fram minut 
